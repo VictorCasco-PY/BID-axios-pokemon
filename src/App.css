@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: #252525;
+  color: whitesmoke;
+  padding: 5px 15px;
+  border: none;
+  cursor: pointer;
+}
